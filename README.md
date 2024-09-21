@@ -104,3 +104,9 @@ The first prize team will be awarded qBraid credits to further test their soluti
 
 
 For other questions or additional help using qBraid, see [Lab User Guide](https://docs.qbraid.com/en/latest/), or reach out on the qBraid Slack channel.
+
+
+## References
+- [Efficient encoding of the weighted MAX k-CUT on a quantum computer using QAOA](https://arxiv.org/pdf/2009.01095)
+
+- [Amazon Braket](https://aws.amazon.com/braket/)
