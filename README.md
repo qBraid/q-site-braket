@@ -16,6 +16,19 @@ Participants will:
 3. **Optimize QAOA** for performance, circuit depth, accuracy, and execution cost.
 4. **Experiment with various quantum hardware backends** (e.g., Rigetti, IonQ, or IQM) and simulators such as SV1 to compare performance and scalability. We highly encourage you to run your solution with a local simulator before running it on real devices or cloud simulators.
 
+### Using qBraid for development
+Fork this repository into your account, and copy its git clone url e.g. https://github.com/<user>/q-site-braket.git. 
+
+At the bottom of this README in the forked repo, click the Launch on qBraid button to clone this repository and launch qBraid Lab.
+
+Open terminal (first icon in the Other column in Launcher) and cd into the `q-site-braket` repo. Set the repo's remote origin using the git clone url you copied in Step 1, and then create a new branch for your team:
+
+cd q-site-braket
+git remote set-url origin <url>
+git branch <team_name>
+git checkout <team_name>
+Use the environment manager (ENVS tab in the right sidebar) to install environment "Amazon Braket 1.86". The installation should take ~2 min.
+
 ---
 
 ## **Challenge Goals:**
