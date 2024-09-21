@@ -110,3 +110,5 @@ For other questions or additional help using qBraid, see [Lab User Guide](https:
 - [Efficient encoding of the weighted MAX k-CUT on a quantum computer using QAOA](https://arxiv.org/pdf/2009.01095)
 
 - [Amazon Braket](https://aws.amazon.com/braket/)
+
+- [qBraid SDK](https://github.com/qbraid/qbraid)
