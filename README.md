@@ -1,4 +1,4 @@
-# Q-SITE Hackathon Challenge
+# Q-SITE Hackathon qBraid-AWS Challenge
 
 **Optimizing Quantum Approximate Optimization Algorithm (QAOA) for Weighted Max-k-Cut Using Amazon Braket**
 
@@ -43,7 +43,7 @@ Use the environment manager (ENVS tab in the right sidebar) to install environme
    - Perform classical parameter optimization for the angles in the QAOA algorithm using gradient-based or heuristic methods.
 
 3. **Hardware Comparison**:
-   - Execute the QAOA algorithm on at least two quantum hardware backends (e.g., Rigetti, IonQ) and compare performance using the qBraid SDK.
+   - Execute the QAOA algorithm on at least two quantum hardware backends (e.g. at least two of Rigetti, IonQ, or IQM) and compare performance using the qBraid SDK.
    - Analyze metrics such as gate count, execution time, solution quality, and hardware noise resilience. 
 
 4. **Error Mitigation**:
@@ -54,7 +54,8 @@ Use the environment manager (ENVS tab in the right sidebar) to install environme
 ## **Deliverables:**
 
 1. **Code Repository**:
-   - Fork this repository and submit your code on GitHub including clear instructions on how to run the experiments and reproduce your results.
+   - Fork this repository and submit your code on GitHub by creating a pull request so we can view your results! 
+   - Make sure to include clear instructions on how to run the experiments and reproduce your results.
    - The code should be modular and well-documented, if we can't run the code, we can't validate your results!!!
 
 2. **Final Report**:
