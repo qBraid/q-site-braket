@@ -60,7 +60,8 @@ Use the environment manager (ENVS tab in the right sidebar) to install environme
 
 2. **Final Report**:
    - Include everything in one jupyter notebook runnable on qBraid with the [Amazon Braket (1.86) ](https://docs.qbraid.com/lab/user-guide/environments#install-environment) environment.
-    <img src="./amazon_braket_v186.png" width="200px" style="margin: auto;"> 
+    <img src="./amazon_braket_v186.png" width="200px" style="margin: auto;">
+
    - Detailed report in the jupyter notebook explaining your implementation, including the formulation of the Weighted Max-k-Cut problem and QAOA.
    - Discuss the optimization techniques used, the results obtained, and the comparison of hardware backends.
    - Include insights into the performance of your QAOA as \( k \) increases.
