@@ -17,7 +17,7 @@ Participants will:
 4. **Experiment with various quantum hardware backends** (e.g., Rigetti, IonQ, or IQM) and simulators such as SV1 to compare performance and scalability. We highly encourage you to run your solution with a local simulator before running it on real devices or cloud simulators.
 
 ### Using qBraid for development
-Fork this repository into your account, and copy its git clone url e.g. https://github.com/<user>/q-site-braket.git. 
+Fork this repository into your account, and copy its git clone url e.g. `https://github.com/<user>/q-site-braket.git`. 
 
 At the bottom of this README in the forked repo, click the Launch on qBraid button to clone this repository and launch qBraid Lab.
 
